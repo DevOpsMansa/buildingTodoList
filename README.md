@@ -1,6 +1,6 @@
-# ** Building a Todo List **
+# Building a Todo List 
 
-## ** Objectives **
+## Objectives 
 
 Upon completion, this lab demonstrates the ability to:
 
@@ -11,7 +11,7 @@ Upon completion, this lab demonstrates the ability to:
 - Use conditional rendering and conditional styling to provide a positive, interactive user experience.
 - Create a complete React application from a set of desired functionality.
 
-## ** Instructions **
+## Instructions 
 
 This lab will test your ability to build an application from scratch, using a set of desired functionality to drive your design decisions.
 
@@ -20,7 +20,7 @@ Follow the requirements below to create your React application.
 Submit the link to your CodeSandbox on Canvas when you are finished.
 The layout and styling of the application is left up to your discretion. There are no layout or styling requirements, but you should always make sure your applications are neat, sensible, and provide a good user experience. If you are left with extra time, there is always more styling to be done!
 
-## ** Requirements **
+## Requirements 
 
 After reading through the requirements below, it is recommended you start with a mockup and follow the steps described in "Thinking in React" to complete your application. Remember, stay organized!
 
@@ -184,6 +184,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## ** Author **
-
-Eric (Mansa) Marah
+## Author
+Eric (Mansa) Marah - Per Scholas

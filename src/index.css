@@ -23,6 +23,7 @@
 
 .todo-list-container h1 {
   font-size: 24px;
+  text-align: center;
   margin-bottom: 20px;
 }
 
@@ -45,7 +46,7 @@
 
 .todo-list-container li.complete span {
   text-decoration: line-through;
-  color: #34d411;
+  color: #31df0a;
 }
 
 .todo-list-container button {
@@ -57,6 +58,7 @@
   color: #fff;
   cursor: pointer;
 }
+
 
 .todo-list-container button:disabled {
   background-color: #ccc;

@@ -123,4 +123,4 @@ const initialState = [
     }
   ];
 
-  export default TodoData;
+  export default initialState;
