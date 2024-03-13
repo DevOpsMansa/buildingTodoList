@@ -63,10 +63,10 @@ const TodoList = () => {
     fetchInitialTodos();
   }, []); // Empty dependency array ensures it runs only once on mount
 
-  //  // useEffect hook to set the initial state from TodoData.jsx
-  //  useEffect(() => {
-  //   setTodos(TodoData);
-  // }, []);
+   // useEffect hook to set the initial state from TodoData.jsx
+   useEffect(() => {
+    setTodos(TodoData);
+  }, []);
 
   return (
     <div className="todo-list-container">
